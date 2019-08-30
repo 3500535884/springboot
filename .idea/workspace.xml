@@ -1,27 +1,69 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="1eec82b6-a43b-469d-a3fc-2de389a04dd9" name="Default Changelist" comment="" />
+    <list default="true" id="1eec82b6-a43b-469d-a3fc-2de389a04dd9" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/compiler.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/compiler.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/encodings.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/encodings.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/modules.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/hello-world/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/hello-world/.mvn/wrapper/MavenWrapperDownloader.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/hello-world/.mvn/wrapper/maven-wrapper.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/hello-world/.mvn/wrapper/maven-wrapper.properties" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/hello-world/mvnw" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/hello-world/mvnw.cmd" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/hello-world/pom.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/hello-world/src/main/java/com/raindow/helloworld/Greeting.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/hello-world/src/main/java/com/raindow/helloworld/GreetingController.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/hello-world/src/main/java/com/raindow/helloworld/HelloWorldApplication.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/hello-world/src/main/resources/application.properties" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/hello-world/src/test/java/com/raindow/helloworld/HelloWorldApplicationTests.java" beforeDir="false" />
+    </list>
     <ignored path="$PROJECT_DIR$/toturial/target/" />
     <ignored path="$PROJECT_DIR$/springboot-ajax/target/" />
     <ignored path="$PROJECT_DIR$/springboot-jdbc/target/" />
     <ignored path="$PROJECT_DIR$/hello-world/target/" />
+    <ignored path="$PROJECT_DIR$/toturial/testdemo/target/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
+  <component name="DatabaseView">
+    <option name="SHOW_INTERMEDIATE" value="true" />
+    <option name="GROUP_DATA_SOURCES" value="true" />
+    <option name="GROUP_SCHEMA" value="true" />
+    <option name="GROUP_CONTENTS" value="false" />
+    <option name="SORT_POSITIONED" value="false" />
+    <option name="SHOW_EMPTY_GROUPS" value="false" />
+    <option name="AUTO_SCROLL_FROM_SOURCE" value="false" />
+    <option name="HIDDEN_KINDS">
+      <set />
+    </option>
+    <expand />
+    <select />
+  </component>
   <component name="DefaultGradleProjectSettings">
     <option name="isMigrated" value="true" />
   </component>
   <component name="FileEditorManager">
     <leaf>
-      <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/hello-world/src/main/java/com/raindow/helloworld/GreetingController.java">
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/toturial/testdemo/pom.xml">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="198">
-              <caret line="9" column="13" selection-start-line="9" selection-start-column="13" selection-end-line="9" selection-end-column="13" />
+            <state relative-caret-position="32">
+              <caret line="25" selection-start-line="25" selection-end-line="25" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/toturial/testdemo/src/test/java/com/testdemo/testdemo/SmokeTest.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="-318">
+              <caret column="30" selection-start-column="30" selection-end-column="30" />
               <folding>
                 <element signature="imports" expanded="true" />
               </folding>
@@ -30,25 +72,10 @@
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/hello-world/src/main/java/com/raindow/helloworld/HelloWorldApplication.java">
+        <entry file="file://$PROJECT_DIR$/toturial/testdemo/src/test/java/com/testdemo/testdemo/TestdemoApplicationTests.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="220">
-              <caret line="13" lean-forward="true" selection-start-line="13" selection-end-line="13" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/hello-world/src/main/java/com/raindow/helloworld/Greeting.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="208">
-              <caret line="13" column="23" selection-start-line="13" selection-start-column="23" selection-end-line="13" selection-end-column="23" />
-              <folding>
-                <element signature="e#109#110#0" expanded="true" />
-                <element signature="e#134#135#0" expanded="true" />
-                <element signature="e#208#209#0" expanded="true" />
-                <element signature="e#237#238#0" expanded="true" />
-              </folding>
+            <state>
+              <caret selection-end-column="30" />
             </state>
           </provider>
         </entry>
@@ -76,6 +103,8 @@
         <option value="$PROJECT_DIR$/hello-world/pom.xml" />
         <option value="$PROJECT_DIR$/hello-world/src/main/java/com/raindow/helloworld/GreetingController.java" />
         <option value="$PROJECT_DIR$/hello-world/src/main/java/com/raindow/helloworld/Greeting.java" />
+        <option value="$PROJECT_DIR$/toturial/testdemo/src/main/java/com/testdemo/testdemo/HelloHomeController.java" />
+        <option value="$PROJECT_DIR$/toturial/testdemo/src/test/java/com/testdemo/testdemo/SmokeTest.java" />
       </list>
     </option>
   </component>
@@ -165,7 +194,7 @@
       </list>
     </option>
   </component>
-  <component name="ProjectFrameBounds" extendedState="7">
+  <component name="ProjectFrameBounds" extendedState="6">
     <option name="x" value="10" />
     <option name="y" value="20" />
     <option name="width" value="1346" />
@@ -186,6 +215,78 @@
               <item name="springboot" type="b2602c69:ProjectViewProjectNode" />
               <item name="springboot" type="462c0819:PsiDirectoryNode" />
             </path>
+            <path>
+              <item name="springboot" type="b2602c69:ProjectViewProjectNode" />
+              <item name="springboot" type="462c0819:PsiDirectoryNode" />
+              <item name="toturial" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="springboot" type="b2602c69:ProjectViewProjectNode" />
+              <item name="springboot" type="462c0819:PsiDirectoryNode" />
+              <item name="toturial" type="462c0819:PsiDirectoryNode" />
+              <item name="testdemo" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="springboot" type="b2602c69:ProjectViewProjectNode" />
+              <item name="springboot" type="462c0819:PsiDirectoryNode" />
+              <item name="toturial" type="462c0819:PsiDirectoryNode" />
+              <item name="testdemo" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="springboot" type="b2602c69:ProjectViewProjectNode" />
+              <item name="springboot" type="462c0819:PsiDirectoryNode" />
+              <item name="toturial" type="462c0819:PsiDirectoryNode" />
+              <item name="testdemo" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="springboot" type="b2602c69:ProjectViewProjectNode" />
+              <item name="springboot" type="462c0819:PsiDirectoryNode" />
+              <item name="toturial" type="462c0819:PsiDirectoryNode" />
+              <item name="testdemo" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="springboot" type="b2602c69:ProjectViewProjectNode" />
+              <item name="springboot" type="462c0819:PsiDirectoryNode" />
+              <item name="toturial" type="462c0819:PsiDirectoryNode" />
+              <item name="testdemo" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="testdemo" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="springboot" type="b2602c69:ProjectViewProjectNode" />
+              <item name="springboot" type="462c0819:PsiDirectoryNode" />
+              <item name="toturial" type="462c0819:PsiDirectoryNode" />
+              <item name="testdemo" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="test" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="springboot" type="b2602c69:ProjectViewProjectNode" />
+              <item name="springboot" type="462c0819:PsiDirectoryNode" />
+              <item name="toturial" type="462c0819:PsiDirectoryNode" />
+              <item name="testdemo" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="test" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="springboot" type="b2602c69:ProjectViewProjectNode" />
+              <item name="springboot" type="462c0819:PsiDirectoryNode" />
+              <item name="toturial" type="462c0819:PsiDirectoryNode" />
+              <item name="testdemo" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="test" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="testdemo" type="462c0819:PsiDirectoryNode" />
+            </path>
           </expand>
           <select />
         </subPane>
@@ -196,6 +297,11 @@
   </component>
   <component name="PropertiesComponent">
     <property name="ASKED_SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
+    <property name="RequestMappingsPanelOrder0" value="0" />
+    <property name="RequestMappingsPanelOrder1" value="1" />
+    <property name="RequestMappingsPanelWidth0" value="75" />
+    <property name="RequestMappingsPanelWidth1" value="75" />
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
     <property name="jdk.selected.JAVA_MODULE" value="1.8" />
@@ -216,7 +322,63 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Spring Boot.HelloWorldApplication">
+  <component name="RunManager" selected="JUnit.SmokeTest.shouldReturnDefaultMessage">
+    <configuration name="SmockeTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="testdemo" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.testdemo.testdemo.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="com.testdemo.testdemo" />
+      <option name="MAIN_CLASS_NAME" value="com.testdemo.testdemo.SmockeTest" />
+      <option name="TEST_OBJECT" value="class" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="SmokeTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="testdemo" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.testdemo.testdemo.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="com.testdemo.testdemo" />
+      <option name="MAIN_CLASS_NAME" value="com.testdemo.testdemo.SmokeTest" />
+      <option name="TEST_OBJECT" value="class" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="SmokeTest.shouldReturnDefaultMessage (1)" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="testdemo" />
+      <option name="PACKAGE_NAME" value="com.testdemo.testdemo" />
+      <option name="MAIN_CLASS_NAME" value="SmokeTest" />
+      <option name="METHOD_NAME" value="shouldReturnDefaultMessage" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="SmokeTest.shouldReturnDefaultMessage" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="testdemo" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.testdemo.testdemo.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="com.testdemo.testdemo" />
+      <option name="MAIN_CLASS_NAME" value="com.testdemo.testdemo.SmokeTest" />
+      <option name="METHOD_NAME" value="shouldReturnDefaultMessage" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <configuration name="SpringbootJdbcApplicationTests" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
       <module name="springboot-jdbc" />
       <extension name="coverage">
@@ -228,22 +390,6 @@
       <option name="PACKAGE_NAME" value="comrainbow.springbootjdbc" />
       <option name="MAIN_CLASS_NAME" value="comrainbow.springbootjdbc.SpringbootJdbcApplicationTests" />
       <option name="TEST_OBJECT" value="class" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="SpringbootJdbcApplicationTests.datasourceTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
-      <module name="springboot-jdbc" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="comrainbow.springbootjdbc.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <option name="PACKAGE_NAME" value="comrainbow.springbootjdbc" />
-      <option name="MAIN_CLASS_NAME" value="comrainbow.springbootjdbc.SpringbootJdbcApplicationTests" />
-      <option name="METHOD_NAME" value="datasourceTest" />
-      <option name="TEST_OBJECT" value="method" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
@@ -269,10 +415,20 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="TestdemoApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
+      <module name="testdemo" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.testdemo.testdemo.TestdemoApplication" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="JUnit.SmokeTest.shouldReturnDefaultMessage" />
+        <item itemvalue="JUnit.SmokeTest.shouldReturnDefaultMessage (1)" />
+        <item itemvalue="JUnit.SmokeTest" />
+        <item itemvalue="JUnit.SmockeTest" />
         <item itemvalue="JUnit.SpringbootJdbcApplicationTests" />
-        <item itemvalue="JUnit.SpringbootJdbcApplicationTests.datasourceTest" />
       </list>
     </recent_temporary>
   </component>
@@ -287,14 +443,11 @@
       <option name="presentableId" value="Default" />
       <updated>1567074919009</updated>
       <workItem from="1567074923547" duration="770000" />
-      <workItem from="1567076556428" duration="7331000" />
+      <workItem from="1567076556428" duration="13897000" />
     </task>
     <servers />
   </component>
   <component name="TestHistory">
-    <history-entry file="SpringbootJdbcApplicationTests_datasourceTest - 2019.08.29 at 19h 44m 56s.xml">
-      <configuration name="SpringbootJdbcApplicationTests.datasourceTest" configurationId="JUnit" />
-    </history-entry>
     <history-entry file="SpringbootJdbcApplicationTests_datasourceTest - 2019.08.29 at 19h 45m 54s.xml">
       <configuration name="SpringbootJdbcApplicationTests.datasourceTest" configurationId="JUnit" />
     </history-entry>
@@ -310,9 +463,24 @@
     <history-entry file="SpringbootJdbcApplicationTests - 2019.08.29 at 20h 14m 20s.xml">
       <configuration name="SpringbootJdbcApplicationTests" configurationId="JUnit" />
     </history-entry>
+    <history-entry file="SmokeTest - 2019.08.30 at 15h 56m 54s.xml">
+      <configuration name="SmokeTest" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="SmokeTest_shouldReturnDefaultMessage - 2019.08.30 at 16h 00m 07s.xml">
+      <configuration name="SmokeTest.shouldReturnDefaultMessage" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="SmokeTest_shouldReturnDefaultMessage_(1) - 2019.08.30 at 16h 45m 48s.xml">
+      <configuration name="SmokeTest.shouldReturnDefaultMessage (1)" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="SmokeTest_shouldReturnDefaultMessage_(1) - 2019.08.30 at 16h 46m 09s.xml">
+      <configuration name="SmokeTest.shouldReturnDefaultMessage (1)" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="SmokeTest_shouldReturnDefaultMessage_(1) - 2019.08.30 at 16h 46m 24s.xml">
+      <configuration name="SmokeTest.shouldReturnDefaultMessage (1)" configurationId="JUnit" />
+    </history-entry>
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="8101000" />
+    <option name="totallyTimeSpent" value="14667000" />
   </component>
   <component name="TodoView" selected-index="3">
     <todo-panel id="selected-file">
@@ -324,7 +492,8 @@
     </todo-panel>
   </component>
   <component name="ToolWindowManager">
-    <frame x="-8" y="-8" width="1382" height="744" extended-state="7" />
+    <frame x="-8" y="-8" width="1382" height="744" extended-state="6" />
+    <editor active="true" />
     <layout>
       <window_info id="Web" side_tool="true" />
       <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.25340393" />
@@ -338,7 +507,7 @@
       <window_info anchor="bottom" id="Java Enterprise" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" />
-      <window_info anchor="bottom" id="Run" order="2" weight="0.29836065" />
+      <window_info anchor="bottom" id="Run" order="2" visible="true" weight="0.29836065" />
       <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
@@ -349,17 +518,52 @@
       <window_info anchor="bottom" id="Terminal" order="10" weight="0.3295082" />
       <window_info anchor="bottom" id="Event Log" order="11" side_tool="true" />
       <window_info anchor="bottom" id="Messages" order="12" weight="0.3295082" />
-      <window_info anchor="right" id="Bean Validation" />
-      <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
-      <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
-      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
-      <window_info anchor="right" id="Palette" order="3" />
-      <window_info anchor="right" id="Database" order="4" />
+      <window_info anchor="right" id="Bean Validation" order="0" />
+      <window_info anchor="right" id="Commander" internal_type="SLIDING" order="1" type="SLIDING" weight="0.4" />
+      <window_info anchor="right" id="Ant Build" order="2" weight="0.25" />
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="3" weight="0.25" />
+      <window_info anchor="right" id="Palette" order="4" />
       <window_info anchor="right" id="Theme Preview" order="5" />
-      <window_info anchor="right" id="Maven" order="6" weight="0.32980332" />
-      <window_info anchor="right" id="Capture Analysis" order="7" />
-      <window_info anchor="right" id="Palette&#9;" order="8" />
+      <window_info anchor="right" id="Database" order="6" weight="0.32980332" />
+      <window_info anchor="right" id="Maven" order="7" weight="0.32980332" />
+      <window_info anchor="right" id="Capture Analysis" order="8" />
+      <window_info anchor="right" id="Palette&#9;" order="9" />
     </layout>
+    <layout-to-restore>
+      <window_info id="Web" order="0" side_tool="true" />
+      <window_info active="true" content_ui="combo" id="Project" order="1" visible="true" weight="0.25340393" />
+      <window_info id="Structure" order="2" side_tool="true" weight="0.25" />
+      <window_info id="Image Layers" order="3" />
+      <window_info id="Designer" order="4" />
+      <window_info id="UI Designer" order="5" />
+      <window_info id="Capture Tool" order="6" />
+      <window_info id="Favorites" order="7" side_tool="true" />
+      <window_info anchor="bottom" id="Spring" order="0" />
+      <window_info anchor="bottom" id="Java Enterprise" order="1" />
+      <window_info anchor="bottom" id="Message" order="2" />
+      <window_info anchor="bottom" id="Find" order="3" />
+      <window_info anchor="bottom" id="Run" order="4" weight="0.29836065" />
+      <window_info anchor="bottom" id="Debug" order="5" weight="0.4" />
+      <window_info anchor="bottom" id="Cvs" order="6" weight="0.25" />
+      <window_info anchor="bottom" id="Inspection" order="7" weight="0.4" />
+      <window_info anchor="bottom" id="TODO" order="8" weight="0.3295082" />
+      <window_info anchor="bottom" id="Docker" order="9" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Version Control" order="10" />
+      <window_info anchor="bottom" id="Database Changes" order="11" />
+      <window_info anchor="bottom" id="Terminal" order="12" weight="0.3295082" />
+      <window_info anchor="bottom" id="Event Log" order="13" side_tool="true" />
+      <window_info anchor="bottom" id="Messages" order="14" weight="0.3295082" />
+      <window_info anchor="right" id="Bean Validation" order="0" />
+      <window_info anchor="right" id="Commander" internal_type="SLIDING" order="1" type="SLIDING" weight="0.4" />
+      <window_info anchor="right" id="Ant Build" order="2" weight="0.25" />
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="3" weight="0.25" />
+      <window_info anchor="right" id="Palette" order="4" />
+      <window_info anchor="right" id="Database" order="5" />
+      <window_info anchor="right" id="Theme Preview" order="6" />
+      <window_info anchor="right" id="Maven" order="7" weight="0.32980332" />
+      <window_info anchor="right" id="Capture Analysis" order="8" />
+      <window_info anchor="right" id="Palette&#9;" order="9" />
+    </layout-to-restore>
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="1" />
@@ -429,6 +633,23 @@
     <entry file="file://$PROJECT_DIR$/hello-world/src/main/resources/application.properties">
       <provider selected="true" editor-type-id="text-editor" />
     </entry>
+    <entry file="file://$PROJECT_DIR$/hello-world/src/main/java/com/raindow/helloworld/HelloWorldApplication.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="220">
+          <caret line="13" lean-forward="true" selection-start-line="13" selection-end-line="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/hello-world/src/main/java/com/raindow/helloworld/GreetingController.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="198">
+          <caret line="9" column="13" selection-start-line="9" selection-start-column="13" selection-end-line="9" selection-end-column="13" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/hello-world/src/main/java/com/raindow/helloworld/Greeting.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="208">
@@ -442,17 +663,34 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/hello-world/src/main/java/com/raindow/helloworld/HelloWorldApplication.java">
+    <entry file="file://$PROJECT_DIR$/toturial/testdemo/src/main/java/com/testdemo/testdemo/HelloHomeController.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="220">
-          <caret line="13" lean-forward="true" selection-start-line="13" selection-end-line="13" />
+        <state relative-caret-position="264">
+          <caret line="12" column="30" selection-start-line="12" selection-start-column="30" selection-end-line="12" selection-end-column="30" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/hello-world/src/main/java/com/raindow/helloworld/GreetingController.java">
+    <entry file="file://$PROJECT_DIR$/toturial/testdemo/pom.xml">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="198">
-          <caret line="9" column="13" selection-start-line="9" selection-start-column="13" selection-end-line="9" selection-end-column="13" />
+        <state relative-caret-position="32">
+          <caret line="25" selection-start-line="25" selection-end-line="25" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/toturial/testdemo/src/test/java/com/testdemo/testdemo/TestdemoApplicationTests.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <caret selection-end-column="30" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/toturial/testdemo/src/test/java/com/testdemo/testdemo/SmokeTest.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-318">
+          <caret column="30" selection-start-column="30" selection-end-column="30" />
           <folding>
             <element signature="imports" expanded="true" />
           </folding>

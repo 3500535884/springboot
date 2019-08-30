@@ -8,17 +8,16 @@ public class Greeting {
         return id;
     }
 
-     private final String content;
+    private final String content;
 
-    public String getContent(){
+    public String getContent() {
         return content;
     }
 
-    public Greeting( long id,String content){
-        this.id=id;
-        this.content=content;
+    public Greeting(long id, String content) {
+        this.id = id;
+        this.content = content;
     }
-
 
 
 }
