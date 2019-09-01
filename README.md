@@ -41,5 +41,5 @@ Spring Boot 整理
 - [Spring Boot(十九)：使用 Spring Boot Actuator 监控应用](http://www.ityouknow.com/springboot/2018/02/06/spring-boot-actuator.html)   
 - [Spring Boot(二十)：使用 spring-boot-admin 对 Spring Boot 服务进行监控](http://www.ityouknow.com/springboot/2018/02/11/spring-boot-admin.html)   
 
-**[Spring Boot 实战：我们的第一款开源项目](http://www.ityouknow.com/springboot/2016/09/26/spring-boot-opensource-favorites.html)**
+**[Spring Boot 实战：我的第一款开源项目]**
 
